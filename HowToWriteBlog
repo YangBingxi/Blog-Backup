@@ -1,0 +1,23 @@
+Step1: 
+    hexo new post "article title" //Create a new .md file and a new folder to save it img.
+Step2:
+    //Write your blog in your file which is just create.
+Step3:
+    hexo g //Create static web.
+    hexo s //Start the server,and then you can preview your blog in your browser with "localhost:4000".
+    hexo d //put your new Blog qo your github if you had linked to your github.
+    
+Step4:
+	attention:
+		标签栏：
+			tags: ''
+			comments: "true"
+
+
+		文章正文记得添加
+		<!-- more -->
+
+
+
+
+By SwYoung 2019.7.12
