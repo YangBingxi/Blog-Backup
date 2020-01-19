@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: 121.36.5.94 ## 服务器地址
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -108,7 +108,8 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/youngsw/youngsw.github.io
+  repository: https://github.com/youngsw/youngsw.github.io  ## github部署
+#  repository: root@121.36.5.94:/home/swyoung/blog/repo/hexo_static.git ## 服务器部署
   branch: master
 
 
@@ -144,5 +145,6 @@ jsonContent:
 # 是否开启字数统计
 #不需要使用，直接设置值为false，或注释掉
 word_count: True
+
 
 

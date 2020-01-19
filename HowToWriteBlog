@@ -18,9 +18,8 @@ Step4:
 		<!-- more -->
 
 
-Setp5:
-	相册功能：
-	先将图片加入PhotoBackup并改名
-	执行tool脚本将图片压缩并生成json
+Step5:
+相册功能：
+先去PhotoBackup中执行tool脚本，会生成相关的json脚本到blog文件中
 
 By SwYoung 2019.7.12

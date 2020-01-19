@@ -16,3 +16,6 @@
 [yilia主题美化](http://xxty.fun/2019/08/14/hexo%E5%8D%9A%E5%AE%A2%EF%BC%9Ayilia%E4%B8%BB%E9%A2%98%E7%BE%8E%E5%8C%96/)
 
 [yilia主题添加valine评论功能](https://mxy493.xyz/2019/01/28/Hexo%E5%8D%9A%E5%AE%A2%EF%BC%88%E4%B8%BB%E9%A2%98%EF%BC%9Ayilia%EF%BC%89%E6%B7%BB%E5%8A%A0Valine%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/)
+
+[hexo博客+相册](http://www.lawlite.me/2017/04/13/Hexo-Github%E5%AE%9E%E7%8E%B0%E7%9B%B8%E5%86%8C%E5%8A%9F%E8%83%BD/)
+
