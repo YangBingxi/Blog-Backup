@@ -1,6 +1,6 @@
 # hexo + yilia 博客配置备份
 
-### [博客地址](https://youngsw.github.io)
+### [博客地址](https://yangbingxi.github.io/)
 
 ### 介绍
 #### 博客架构
