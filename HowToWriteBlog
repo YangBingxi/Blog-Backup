@@ -11,11 +11,21 @@ Step4:
 	attention:
 		标签栏：
 			tags: 
-			- tag1
-			- tag2
+			- tool
+			- linux
+			- vim
+			- ubuntu
+			- nginx
+			- git
+			- 网站
+			- 电子
 			categories: 
-			- categorie1
-            - categorie2 
+			- 后端
+			- 生产力
+			- 嵌入式
+      - code
+			- 电子
+			- 服务器
 			comments: "true"
 
 
