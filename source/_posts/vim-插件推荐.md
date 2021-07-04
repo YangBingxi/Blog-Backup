@@ -3,10 +3,9 @@ title: vim 插件推荐
 date: 2020-02-06 22:41:35
 tags: 
 - vim
-- linux
 - tool
 categories:
-- code
+- Code
 ---
 ## 工欲善其事必先利其器之vim-插件
 
@@ -50,7 +49,7 @@ categories:
 ![airline](/img/Vim/plug/airline3.png)
 - startify会显示一个启动效果(最近打开的文件列表，提供通过文件前的数字编号快速跳转)
   - 如果startify没有自动打开，可以执行```:startify``` <br>
-![startify](/img/Vim/plug/startify.png)
+  ![startify](/img/Vim/plug/startify.png)
 ---
 #### File navigation：文件导航相关的插件
 
@@ -186,7 +185,7 @@ map <LEADER>al :UndotreeToggle<CR>
   - **ds'** : [delete surround]删除单词的'，同理也可以操作'' "" {} () [] 等
   - **ds"** : 删除单词的"，同理也可以操作'' "" {} () [] 等
   - **ysiw"** : [you add a surround]给光标所在的单词添加"" ，同理也可以添加'' "" {} () [] 等
-[Link:indentline:代码缩进线](https://github.com/yggdroot/indentline)
+  [Link:indentline:代码缩进线](https://github.com/yggdroot/indentline)
 
 [Link:vim-interestingwords:高亮单词](https://github.com/lfv89/vim-interestingwords)
 - 快捷键
@@ -194,7 +193,7 @@ map <LEADER>al :UndotreeToggle<CR>
   - n : 跳转到下一个
   - N : 跳转到上一个
   - [LEADER]K : 清除高亮
-![interestingwords](/img/Vim/plug/interestingword.png)
+  ![interestingwords](/img/Vim/plug/interestingword.png)
 ---
 #### Git：git相关
 
@@ -293,7 +292,7 @@ map <LEADER>gy :Goyo<CR>
 
 - 快捷键：
   - **[LEADER]gy** : 开启focus model
-![goyo](/img/Vim/plug/goyo.png)
+  ![goyo](/img/Vim/plug/goyo.png)
 
 [Link:vim-surround:快速编辑成对内容](https://github.com/tpope/vim-surround)
 - 快捷键：

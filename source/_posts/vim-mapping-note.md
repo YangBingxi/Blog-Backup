@@ -3,10 +3,9 @@ title: vim mapping note
 date: 2020-02-27 11:36:44
 tags:
 - vim
-- linux
 - tool
 categories:
-- code
+- Code
 ---
 ## 工欲善其事必先利其器之vim-Mapping
 
@@ -473,5 +472,4 @@ H&ensp;&ensp;&ensp;L<br>
     I like vim .
     'hi'
     "sw"
-
 

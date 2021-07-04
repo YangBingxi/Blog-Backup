@@ -6,9 +6,7 @@ tags:
 - linux
 - 网站
 categorie:
-- 后端
-- code
-- 服务器
+- Code
 ---
 ## 解决 nginx 413 Request Too Large
 
@@ -25,5 +23,4 @@ client_max_body_size 20m;
 ```
 
 - 重启nginx服务```server nginx restart```
-
 

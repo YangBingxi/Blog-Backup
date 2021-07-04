@@ -5,8 +5,7 @@ tags:
 - tool 
 - git
 categories:
-- 生产力
-- code
+- Code
 ---
 ## 设置git commit 时间
 只要在commit的时候添加时间参数即可如：

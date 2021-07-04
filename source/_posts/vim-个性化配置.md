@@ -3,11 +3,9 @@ title: vim 个性化配置
 date: 2020-02-01 21:26:41
 tags: 
 - vim
-- linux
 - tool 
 categories: 
-- code
-- 生产力
+- Code
 ---
 ## 工欲善其事必先利其器之vim-配置
 

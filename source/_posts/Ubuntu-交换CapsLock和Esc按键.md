@@ -2,7 +2,6 @@
 title: Ubuntu 交换CapsLock和Esc按键
 date: 2020-02-03 21:00:47
 tags:
-- linux
 - vim
 - ubuntu
 categories:
